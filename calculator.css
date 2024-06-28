@@ -1,0 +1,41 @@
+body{
+  background-color: black;
+  font-family: Arial;
+  position: fixed;
+  top: 25%;
+  left: 45%;
+}
+
+div{
+  position: fixed;
+  top:32%;
+  left: 50%;}
+
+.blackButton{
+  background-color: rgb(50, 49, 49);
+  color: white;
+  border: none;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  font-size: 20px;
+}
+
+.orangeButton{
+  background-color: rgb(235, 131, 34);
+  color: white;
+  border: none;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  font-size: 20px;
+}
+
+.calculation{
+  color:black;
+  font-size: 40px;
+  margin: 0px 0px 10px 30px;
+  height: 50px;
+  width: 200px;
+  text-align: left;
+}
